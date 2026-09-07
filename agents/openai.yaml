@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 165"
+  short_description: "Central Torn-paper Reveal Collage"
+  default_prompt: "Use $xxd-panel-165 to transform my photograph following the complete canonical source brief."
