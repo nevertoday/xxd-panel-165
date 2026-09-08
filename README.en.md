@@ -10,7 +10,23 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-This compute-saving batch packages the Skill without calling an image model or generating sample artwork. Source integrity, links and runtime helpers are checked; visual generation quality remains untested. The usage examples below are commands, not generated works.
+Eight first-pass Panel 165 samples generated independently from different source images, with short English copy. Landscape: 1536×864 with equal left/right halves; portrait: 1152×1536 with equal top/bottom halves.
+
+Each was reviewed for a central vertical tear, fibrous edges and layered collage. Some colors are dark, excess scene detail remains, and the car is still fairly realistic. Actual results are shown, not a claim that all passed style review.
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## Best-fit situations and problems solved
 

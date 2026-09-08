@@ -10,7 +10,23 @@
 
 ## 样张展示
 
-本批按节约算力要求完成封装，未调用图像模型、未生成示例图片。已检查原稿、链接和运行脚本；真实生图效果尚未验收。以下为调用示例，不是已生成的作品。
+以下为 Panel 165 从不同源图独立生成的 8 张首轮样张，使用简短英文文案。横图为 1536×864、左右等分；竖图为 1152×1536、上下等分。
+
+已逐张检查中央纵向撕纸裂缝、纤维毛边和分层拼贴。部分色彩偏暗、保留场景细节偏多，汽车仍较写实；这里展示实际结果，不代表全部通过风格验收。
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 适用场景与解决的问题
 

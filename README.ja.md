@@ -10,7 +10,23 @@
 
 ## サンプル展示
 
-計算資源を節約するため、このバッチでは画像モデルを呼び出さず、作例画像も生成していません。原文・リンク・実行スクリプトを検証済みですが、実際の生成品質は未検証です。以下は呼び出し例であり、生成作品ではありません。
+異なる元画像から個別に生成した Panel 165 の初回作例8点です。短い英文を使用。横長は1536×864の左右等分、縦長は1152×1536の上下等分です。
+
+中央の縦長の裂け目、紙の毛羽立ち、重層コラージュを全点確認しました。一部は色が暗く、風景の細部を残しすぎ、車も写実的です。実際の結果の展示であり、全点が作風審査に合格したという意味ではありません。
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 向いている場面と解決する課題
 
