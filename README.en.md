@@ -10,23 +10,27 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-Eight first-pass Panel 165 samples generated independently from different source images, with short English copy. Landscape: 1536×864 with equal left/right halves; portrait: 1152×1536 with equal top/bottom halves.
+Rebuilt on 2026-09-09: 8 AI-generated samples from independent source images, 4 landscape + 4 portrait. This batch covers Panels 159 and 161–171: 96 different source files verified by SHA-256. Panel 160 is unchanged. Each output uses this Panel's native script and complete original brief, with short English copy.
 
-Each was reviewed for a central vertical tear, fibrous edges and layered collage. Some colors are dark, excess scene detail remains, and the car is still fairly realistic. Actual results are shown, not a claim that all passed style review.
+Native PNGs are retained without resizing, cropping or split correction. Landscapes are 1672×941 (approximately 16:9); portraits are 1086×1448 (3:4). Landscape boundaries are near the midpoint; the source region in these portraits occupies approximately 41.6–50.0%. These are not all certified exact 50:50 splits.
 
-16:9 · 50:50
+Every full-size image and thumbnail was reviewed, and metadata cleanup was verified. These are actual outputs, **not a fully accepted style showcase**. Tears often span the full design height; some subjects remain realistic, with insufficient scene reduction and geometric abstraction.
 
-| sample-05 | sample-06 |
+[Generation and SHA-256 audit](assets/examples/unique-20260909-audit.json)
+
+### 4 landscape samples · source left, design right
+
+| 05 | 06 |
 |---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| ![sample-05](assets/examples/sample-05-unique.png) | ![sample-06](assets/examples/sample-06-unique.png) |
+| ![sample-07](assets/examples/sample-07-unique.png) | ![sample-08](assets/examples/sample-08-unique.png) |
 
-3:4 · 50:50
+### 4 portrait samples · source above, design below
 
-| sample-09 | sample-10 |
+| 09 | 10 |
 |---|---|
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+| ![sample-09](assets/examples/sample-09-unique.png) | ![sample-10](assets/examples/sample-10-unique.png) |
+| ![sample-11](assets/examples/sample-11-unique.png) | ![sample-12](assets/examples/sample-12-unique.png) |
 
 ## Best-fit situations and problems solved
 
@@ -119,10 +123,3 @@ In plain language:
 - The agreement grants only the copyright licence and limited patent licence expressly stated. It grants no trademarks, brand names, or other unstated rights, and you may not sublicense your licence to others.
 - After written notice of a violation, you must return to compliance and take practical remedial steps within 32 days, or the licences terminate immediately. A written patent-infringement claim also terminates the patent licence.
 - The material is provided “as is”, without warranty to the extent permitted by law. Users bear the risks and potential losses arising from its use.
-
-
-## Re-selected inputs / 重新选图
-
-Input image for this panel: `assets/inputs/input-07`
-
-![Re-selected input](assets/inputs/input-07.jpg)
