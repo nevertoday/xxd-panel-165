@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 165｜Central Torn-paper Reveal Collage: tears one vertical, irregular rip down the centre of a wide pale fibre-paper sheet, with real deckled edges, curling, layered thickness and soft shadows, and rebuilds the photo's most recognisable subject inside the gap from simplified geometric colour blocks and layered cut shapes, with a key part sometimes breaking out past the torn edge. Light, clear palette of 2–4 brightened colours from the photo on warm white or pale grey paper, very large whitespace and a few quiet words near the tear. Centred layout. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-165 or asks for torn-paper reveal, ripped-paper window or paper-tear collage from a photo.",
+  "short_description": "中央撕纸揭景志：在纸面正中撕开一道毛边裂缝，用几何色块在缝里重新拼出照片主体",
+  "zh-CN": {
+    "name": "中央撕纸揭景志",
+    "tagline": "在一张浅色纸正中撕开一道裂缝，照片主角用几何色块从缝里露出来。",
+    "look": "大面积暖白或浅灰白的纤维纸中央，有一道竖着的不规则撕裂缝，毛边、卷曲、纸张厚度和柔和阴影都看得见。缝里不是照片原景，而是用简化轮廓和分层几何色块重新拼出的主体，关键部分偶尔会探出撕口。颜色从照片取 2–4 种，提亮去灰，浅而清透。裂缝周围留着大片空纸，少量字词安静地放在留白或裂缝旁边。",
+    "traits": [
+      "中央裂缝",
+      "撕纸揭景",
+      "几何色块重构",
+      "纸纤维厚度",
+      "超大留白"
+    ],
+    "good": [
+      "竖长、能装进一道窄缝的主体：站着的人、一棵树、一座塔、一个瓶子",
+      "形状可以拆成几块颜色的物件或建筑：一把吉他、一栋小楼、一枝花",
+      "想做成揭幕感海报、展览视觉或杂志封面的照片"
+    ],
+    "poor": [
+      "很宽的横向场景：海平线、长桥、一排人的合影，挤进竖缝会很局促",
+      "需要写实细节的照片，缝里只有概括的几何色块",
+      "想要光滑矢量、廉价 3D 或手工成品实拍照片效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Central Torn-paper Reveal Collage",
+    "tagline": "Tears a gap down the middle of a pale sheet of paper and reveals the star of your photo inside in geometric colour blocks.",
+    "look": "In the centre of a wide warm-white or pale-grey fibre paper runs one vertical, irregular tear, its deckled edges, curling, paper thickness and soft shadows all visible. Inside the gap is not the original scene but the subject rebuilt from simplified outlines and layered geometric colour blocks, with a key part sometimes poking out past the torn edge. Two to four colours from the photo are brightened, light and clear. Bare paper surrounds the tear, and a few words sit quietly in the white space or beside it.",
+    "traits": [
+      "Central tear",
+      "Torn-paper reveal",
+      "Geometric colour blocks",
+      "Fibrous paper depth",
+      "Vast whitespace"
+    ],
+    "good": [
+      "Tall subjects that fit a narrow gap: a standing person, a tree, a tower, a bottle",
+      "Objects or buildings that break into a few colour shapes: a guitar, a small building, a single flower",
+      "Photos you want as an unveiling-style poster, exhibition artwork or magazine cover"
+    ],
+    "poor": [
+      "Very wide horizontal scenes: a horizon, a long bridge, a line of people, which feel cramped in a vertical tear",
+      "Photos that need realistic detail, since the gap holds only simplified colour blocks",
+      "Requests for slick vector art, cheap 3D or a photo of a finished handmade piece"
+    ]
+  },
+  "ja": {
+    "name": "中央の裂け目から現れる紙コラージュ",
+    "tagline": "淡い色の紙の真ん中を縦に裂き、その隙間から写真の主役が幾何学的な色面で現れます。",
+    "look": "広い温かい白や薄いグレーの繊維紙の中央に、縦に走る不揃いな裂け目が一本あり、毛羽立った縁、めくれ、紙の厚み、やわらかな影まで見えます。裂け目の中は元の風景ではなく、簡略化した輪郭と重ねた幾何学的な色面で組み直した主役で、要となる部分が裂け目の縁から少しはみ出すこともあります。色は写真から二〜四色を取り、明るく淡く透明感のある色にします。裂け目のまわりには広い紙の余白が残り、言葉は余白や裂け目のそばに静かに少しだけ置きます。",
+    "traits": [
+      "中央の裂け目",
+      "破れ目から現れる景色",
+      "幾何学的な色面",
+      "紙の繊維と厚み",
+      "大きな余白"
+    ],
+    "good": [
+      "細い隙間に収まる縦長の主役：立っている人、木、塔、瓶",
+      "いくつかの色面に分けられる物や建物：ギター、小さな建物、一輪の花",
+      "幕が開くようなポスター、展示ビジュアル、雑誌の表紙にしたい写真"
+    ],
+    "poor": [
+      "横に広い場面：水平線、長い橋、横一列の集合写真（縦の裂け目では窮屈になります）",
+      "写実的な細部が必要な写真（裂け目の中は簡略な色面だけです）",
+      "なめらかなベクター、安っぽい 3D、手作り作品の実物写真のような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "중앙 찢긴 틈의 종이 콜라주",
+    "tagline": "연한 종이 한가운데를 세로로 찢고, 그 틈으로 사진 속 주인공이 기하학적 색면으로 드러납니다.",
+    "look": "넓은 따뜻한 흰색 또는 연회색 섬유 종이 한가운데에 세로로 불규칙하게 찢긴 틈이 하나 있고, 보풀 같은 가장자리, 말려 올라간 부분, 종이 두께, 부드러운 그림자가 다 보입니다. 틈 안에는 원래 풍경이 아니라 단순한 윤곽과 겹친 기하학적 색면으로 다시 짠 주인공이 있으며, 핵심 부분이 찢긴 가장자리 밖으로 살짝 나오기도 합니다. 색은 사진에서 두세 가지, 많게는 네 가지를 골라 밝고 연하고 맑게 정리합니다. 틈 주변에는 넓은 빈 종이가 남고, 글은 여백이나 틈 옆에 조용히 조금만 둡니다.",
+    "traits": [
+      "중앙의 찢긴 틈",
+      "찢어 드러내기",
+      "기하학적 색면",
+      "종이 섬유와 두께",
+      "아주 넓은 여백"
+    ],
+    "good": [
+      "좁은 틈에 들어가는 세로로 긴 주인공: 서 있는 사람, 나무, 탑, 병",
+      "몇 개의 색면으로 나눌 수 있는 물건이나 건물: 기타, 작은 건물, 꽃 한 송이",
+      "막이 걷히는 듯한 포스터, 전시 비주얼, 잡지 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "가로로 아주 넓은 장면: 수평선, 긴 다리, 한 줄로 선 단체 사진(세로 틈에서는 답답해집니다)",
+      "사실적인 세부가 필요한 사진(틈 안에는 단순한 색면만 있습니다)",
+      "매끈한 벡터, 값싼 3D, 손으로 만든 작품을 실제로 찍은 사진 같은 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج يكشف المشهد عبر شق ورقي مركزي",
+    "tagline": "يمزّق فتحة في منتصف ورقة فاتحة، ويظهر بطل صورتك داخلها بكتل لونية هندسية.",
+    "look": "في وسط ورقة ليفية واسعة بلون أبيض دافئ أو رمادي فاتح يمتد تمزّق عمودي واحد غير منتظم، تظهر حوافه المنسّلة وتجعّده وسماكة الورق وظلاله الناعمة. ليس داخل الفتحة المشهد الأصلي، بل العنصر معاد البناء من حدود مبسّطة وكتل لونية هندسية متراكبة، وقد يبرز جزء أساسي منه أحياناً خارج حافة التمزق. تُفتَّح من الصورة لونان إلى أربعة ألوان، فاتحة وصافية. يحيط بالتمزق ورق خالٍ، وتقع كلمات قليلة بهدوء في الفراغ أو بجانبه.",
+    "traits": [
+      "تمزّق مركزي",
+      "كشف عبر الورق الممزق",
+      "كتل لونية هندسية",
+      "عمق ألياف الورق",
+      "فراغ واسع جداً"
+    ],
+    "good": [
+      "عناصر طويلة تناسب فتحة ضيقة: شخص واقف، شجرة، برج، زجاجة",
+      "أشياء أو مبانٍ تنقسم إلى أشكال لونية قليلة: غيتار، مبنى صغير، زهرة واحدة",
+      "صور تريدها ملصقاً بطابع إزاحة الستار أو تصميماً لمعرض أو غلاف مجلة"
+    ],
+    "poor": [
+      "مشاهد أفقية عريضة جداً: خط الأفق، جسر طويل، صف من الناس، تبدو ضيقة داخل تمزق عمودي",
+      "صور تحتاج إلى تفاصيل واقعية، إذ لا تحمل الفتحة إلا كتلاً لونية مبسّطة",
+      "طلب رسوم متجهية ملساء أو مظهر ثلاثي الأبعاد رخيص أو صورة لعمل يدوي منجز"
+    ]
+  }
+}

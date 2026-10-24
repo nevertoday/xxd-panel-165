@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-165
-description: "Create Panel 165 raster artwork: Central Torn-paper Reveal Collage. Use when the user invokes xxd-panel-165 or requests this specific visual language."
+description: "XXD Panel 165｜Central Torn-paper Reveal Collage: tears one vertical, irregular rip down the centre of a wide pale fibre-paper sheet, with real deckled edges, curling, layered thickness and soft shadows, and rebuilds the photo's most recognisable subject inside the gap from simplified geometric colour blocks and layered cut shapes, with a key part sometimes breaking out past the torn edge. Light, clear palette of 2–4 brightened colours from the photo on warm white or pale grey paper, very large whitespace and a few quiet words near the tear. Centred layout. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-165 or asks for torn-paper reveal, ripped-paper window or paper-tear collage from a photo."
 ---
 
 # XXD Panel 165

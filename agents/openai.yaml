@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 165"
-  short_description: "Central Torn-paper Reveal Collage"
-  default_prompt: "Use $xxd-panel-165 to transform my photograph following the complete canonical source brief."
+  short_description: "中央撕纸揭景志：在纸面正中撕开一道毛边裂缝，用几何色块在缝里重新拼出照片主体"
+  default_prompt: "Use $xxd-panel-165 to turn my photo into Central Torn-paper Reveal Collage artwork."
